@@ -1,6 +1,6 @@
 # Client-Server
 
-Projeto para reproduzir um cliente e servidor onde o servidor faz uma requisição para uma API externa e retorna o dado solicitado pelo cliente.
+Projeto para reproduzir um cliente e servidor onde o servidor faz uma requisição para uma API externa e retorna o dado solicitado pelo cliente e as regras descritas no arquivo [Desafio](https://github.com/Disneyjr/Client-Server/blob/main/desafio.txt).
 
 ## Como rodar
 
